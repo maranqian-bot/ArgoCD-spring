@@ -6,7 +6,7 @@ on:
 
 env:
   IMAGE_NAME: docker.io/maranqian/demo
-  GITOPS_REPO: maranqian/ArgoCD
+  GITOPS_REPO: maranqian-bot/ArgoCD
   GITOPS_BRANCH: master
   KUSTOMIZE_FILE: apps/demo/kustomization.yaml
 
