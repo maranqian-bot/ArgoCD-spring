@@ -9,7 +9,7 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String home() {
-		return "버전 2.0 - cicd 테스트 입니다.";
+		return "버전 3.0 - cicd 테스트 입니다.";
 	}
 
 }
